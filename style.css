@@ -3,3 +3,6 @@ body {
     text-align: center;
     background-image: url("https://buscacoach.cloudcoaching.com.br/uploads/news-pictures/2254-barreiras-blog-post-image-20170729111158.jpg");
 }
+.postit {
+    width: 50vh;
+}
